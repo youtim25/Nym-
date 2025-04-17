@@ -1,0 +1,17 @@
+1.2.3 
+1.2.3 
+1.2.3 
+1.2.3 
+1.2.3 
+1.2.3 
+1.2.3 
+1.2.3 
+
+'''
+f=open('Nym_stock.txt',mode='r+')
+
+n=int(input('Combien voulez vous de baton: '))
+for k in range(n):
+    f.write('1.2.3 \n')
+f.close()
+'''
